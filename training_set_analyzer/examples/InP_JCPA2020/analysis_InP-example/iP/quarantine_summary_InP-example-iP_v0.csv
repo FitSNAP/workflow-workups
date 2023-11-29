@@ -1,0 +1,10 @@
+group,fname,flags_thresh,flags_out,flags_natoms,flags_atomids,natoms,econfig,eatom,max_fmag,min_nn1_dist
+iP,iP_0_TipTd_tiA_sc3k2cl_d0lda1.json,nn1_dist_outside_2.0-4.5A ,nn1_dist,1,107,217,-748.850919520984,-3.45093,0.0,4.84903879470973
+iP,iP_0_TipTd_tiA_sc3k2cl_d0lda2.json,nn1_dist_outside_2.0-4.5A ,nn1_dist,1,107,217,-748.851469540984,-3.45093,0.0,4.848963341921652
+iP,iP_0_TipTd_tiA_sc3k2cl_d0lda3.json,nn1_dist_outside_2.0-4.5A ,nn1_dist,1,107,217,-748.851901440984,-3.45093,0.0,4.848845636561345
+iP,iP_0_TipTd_tiA_sc3k2cl_d0lda4.json,nn1_dist_outside_2.0-4.5A ,nn1_dist,1,107,217,-748.8521388509839,-3.45093,0.0,4.848667654943985
+iP,iP_0_TipTd_tiA_sc3k2cl_d0lda5.json,nn1_dist_outside_2.0-4.5A ,nn1_dist,1,107,217,-748.852273930984,-3.45093,0.0,4.8484414100615885
+iP,iP_0_TipTd_tiA_sc3k2cl_d0lda6.json,nn1_dist_outside_2.0-4.5A ,nn1_dist,1,107,217,-748.852369090984,-3.45093,0.0,4.848492653773954
+iP,iP_0_TipTd_tiA_sc3k2cl_d0lda7.json,nn1_dist_outside_2.0-4.5A ,nn1_dist,1,107,217,-748.8523740209839,-3.45093,0.0,4.848522799131711
+iP,iP_0_TipTd_tiA_sc3k2cl_d0lda8.json,nn1_dist_outside_2.0-4.5A ,nn1_dist,1,107,217,-748.852412610984,-3.45093,0.0,4.848598178401671
+iP,iP_0_TipTd_tiA_sc3k2cl_d0lda9.json,nn1_dist_outside_2.0-4.5A ,nn1_dist,1,107,217,-748.8524064409839,-3.45093,0.0,4.84873084338572

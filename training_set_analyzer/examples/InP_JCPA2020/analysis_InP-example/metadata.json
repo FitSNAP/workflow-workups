@@ -1,0 +1,352 @@
+# Metadata dictionary from training_check_v0.py
+{
+    "input": "./examples/InP_JCPA2020/InP-example.in",
+    "datapath": "/home/megmcca/projects/fitsnap/pre-fit_fitsnap_tools/training_set_analyzer/./examples/InP_JCPA2020/JSON",
+    "group_data_not_found": [],
+    "aa": {
+        "nconfigs": 20,
+        "natoms": 4320,
+        "elems": [
+            "In",
+            "P"
+        ],
+        "thresh_econfig": "econfig>100 ",
+        "thresh_eatom": "eatom>5 ",
+        "thresh_fx": "fx>8 ",
+        "thresh_fy": "fy>8 ",
+        "thresh_fz": "fz>8 ",
+        "thresh_fmag": "fmag>8 ",
+        "thresh_nn1_dist": "nn1_dist_outside_2.0-4.5A ",
+        "five_number_csv_configs": "./examples/InP_JCPA2020/analysis_InP-example/aa/five_number_summary_InP-example-aa_configs-aa_v0.csv",
+        "five_number_csv_atoms": "./examples/InP_JCPA2020/analysis_InP-example/aa/five_number_summary_InP-example-aa_atoms_v0.csv",
+        "all_atoms_csv": "./examples/InP_JCPA2020/analysis_InP-example/aa/all-atoms_v0.csv"
+    },
+    "aIn": {
+        "nconfigs": 54,
+        "natoms": 11664,
+        "elems": [
+            "In",
+            "P"
+        ],
+        "thresh_econfig": "econfig>100 ",
+        "thresh_eatom": "eatom>5 ",
+        "thresh_fx": "fx>8 ",
+        "thresh_fy": "fy>8 ",
+        "thresh_fz": "fz>8 ",
+        "thresh_fmag": "fmag>8 ",
+        "thresh_nn1_dist": "nn1_dist_outside_2.0-4.5A ",
+        "five_number_csv_configs": "./examples/InP_JCPA2020/analysis_InP-example/aIn/five_number_summary_InP-example-aIn_configs-aIn_v0.csv",
+        "five_number_csv_atoms": "./examples/InP_JCPA2020/analysis_InP-example/aIn/five_number_summary_InP-example-aIn_atoms_v0.csv",
+        "all_atoms_csv": "./examples/InP_JCPA2020/analysis_InP-example/aIn/all-atoms_v0.csv"
+    },
+    "aP": {
+        "nconfigs": 21,
+        "natoms": 4536,
+        "elems": [
+            "In",
+            "P"
+        ],
+        "thresh_econfig": "econfig>100 ",
+        "thresh_eatom": "eatom>5 ",
+        "thresh_fx": "fx>8 ",
+        "thresh_fy": "fy>8 ",
+        "thresh_fz": "fz>8 ",
+        "thresh_fmag": "fmag>8 ",
+        "thresh_nn1_dist": "nn1_dist_outside_2.0-4.5A ",
+        "five_number_csv_configs": "./examples/InP_JCPA2020/analysis_InP-example/aP/five_number_summary_InP-example-aP_configs-aP_v0.csv",
+        "five_number_csv_atoms": "./examples/InP_JCPA2020/analysis_InP-example/aP/five_number_summary_InP-example-aP_atoms_v0.csv",
+        "all_atoms_csv": "./examples/InP_JCPA2020/analysis_InP-example/aP/all-atoms_v0.csv"
+    },
+    "Bulk": {
+        "nconfigs": 1,
+        "natoms": 8,
+        "elems": [
+            "In",
+            "P"
+        ],
+        "thresh_econfig": "econfig>100 ",
+        "thresh_eatom": "eatom>5 ",
+        "thresh_fx": "fx>8 ",
+        "thresh_fy": "fy>8 ",
+        "thresh_fz": "fz>8 ",
+        "thresh_fmag": "fmag>8 ",
+        "thresh_nn1_dist": "nn1_dist_outside_2.0-4.5A ",
+        "five_number_csv_configs": "./examples/InP_JCPA2020/analysis_InP-example/Bulk/five_number_summary_InP-example-Bulk_configs-Bulk_v0.csv",
+        "five_number_csv_atoms": "./examples/InP_JCPA2020/analysis_InP-example/Bulk/five_number_summary_InP-example-Bulk_atoms_v0.csv",
+        "all_atoms_csv": "./examples/InP_JCPA2020/analysis_InP-example/Bulk/all-atoms_v0.csv"
+    },
+    "EOS": {
+        "nconfigs": 268,
+        "natoms": 2080,
+        "elems": [
+            "In",
+            "P"
+        ],
+        "thresh_econfig": "econfig>100 ",
+        "thresh_eatom": "eatom>5 ",
+        "thresh_fx": "fx>8 ",
+        "thresh_fy": "fy>8 ",
+        "thresh_fz": "fz>8 ",
+        "thresh_fmag": "fmag>8 ",
+        "thresh_nn1_dist": "nn1_dist_outside_2.0-4.5A ",
+        "five_number_csv_configs": "./examples/InP_JCPA2020/analysis_InP-example/EOS/five_number_summary_InP-example-EOS_configs-EOS_v0.csv",
+        "five_number_csv_atoms": "./examples/InP_JCPA2020/analysis_InP-example/EOS/five_number_summary_InP-example-EOS_atoms_v0.csv",
+        "quarantine_csv": "./examples/InP_JCPA2020/analysis_InP-example/EOS/quarantine_summary_InP-example-EOS_v0.csv",
+        "all_atoms_csv": "./examples/InP_JCPA2020/analysis_InP-example/EOS/all-atoms_v0.csv"
+    },
+    "iIn": {
+        "nconfigs": 41,
+        "natoms": 8897,
+        "elems": [
+            "In",
+            "P"
+        ],
+        "thresh_econfig": "econfig>100 ",
+        "thresh_eatom": "eatom>5 ",
+        "thresh_fx": "fx>8 ",
+        "thresh_fy": "fy>8 ",
+        "thresh_fz": "fz>8 ",
+        "thresh_fmag": "fmag>8 ",
+        "thresh_nn1_dist": "nn1_dist_outside_2.0-4.5A ",
+        "five_number_csv_configs": "./examples/InP_JCPA2020/analysis_InP-example/iIn/five_number_summary_InP-example-iIn_configs-iIn_v0.csv",
+        "five_number_csv_atoms": "./examples/InP_JCPA2020/analysis_InP-example/iIn/five_number_summary_InP-example-iIn_atoms_v0.csv",
+        "all_atoms_csv": "./examples/InP_JCPA2020/analysis_InP-example/iIn/all-atoms_v0.csv"
+    },
+    "iP": {
+        "nconfigs": 100,
+        "natoms": 21700,
+        "elems": [
+            "In",
+            "P"
+        ],
+        "thresh_econfig": "econfig>100 ",
+        "thresh_eatom": "eatom>5 ",
+        "thresh_fx": "fx>8 ",
+        "thresh_fy": "fy>8 ",
+        "thresh_fz": "fz>8 ",
+        "thresh_fmag": "fmag>8 ",
+        "thresh_nn1_dist": "nn1_dist_outside_2.0-4.5A ",
+        "five_number_csv_configs": "./examples/InP_JCPA2020/analysis_InP-example/iP/five_number_summary_InP-example-iP_configs-iP_v0.csv",
+        "five_number_csv_atoms": "./examples/InP_JCPA2020/analysis_InP-example/iP/five_number_summary_InP-example-iP_atoms_v0.csv",
+        "quarantine_csv": "./examples/InP_JCPA2020/analysis_InP-example/iP/quarantine_summary_InP-example-iP_v0.csv",
+        "all_atoms_csv": "./examples/InP_JCPA2020/analysis_InP-example/iP/all-atoms_v0.csv"
+    },
+    "s_aa": {
+        "nconfigs": 18,
+        "natoms": 1152,
+        "elems": [
+            "In",
+            "P"
+        ],
+        "thresh_econfig": "econfig>100 ",
+        "thresh_eatom": "eatom>5 ",
+        "thresh_fx": "fx>8 ",
+        "thresh_fy": "fy>8 ",
+        "thresh_fz": "fz>8 ",
+        "thresh_fmag": "fmag>8 ",
+        "thresh_nn1_dist": "nn1_dist_outside_2.0-4.5A ",
+        "five_number_csv_configs": "./examples/InP_JCPA2020/analysis_InP-example/s_aa/five_number_summary_InP-example-s_aa_configs-s_aa_v0.csv",
+        "five_number_csv_atoms": "./examples/InP_JCPA2020/analysis_InP-example/s_aa/five_number_summary_InP-example-s_aa_atoms_v0.csv",
+        "all_atoms_csv": "./examples/InP_JCPA2020/analysis_InP-example/s_aa/all-atoms_v0.csv"
+    },
+    "s_aIn": {
+        "nconfigs": 121,
+        "natoms": 7744,
+        "elems": [
+            "In",
+            "P"
+        ],
+        "thresh_econfig": "econfig>100 ",
+        "thresh_eatom": "eatom>5 ",
+        "thresh_fx": "fx>8 ",
+        "thresh_fy": "fy>8 ",
+        "thresh_fz": "fz>8 ",
+        "thresh_fmag": "fmag>8 ",
+        "thresh_nn1_dist": "nn1_dist_outside_2.0-4.5A ",
+        "five_number_csv_configs": "./examples/InP_JCPA2020/analysis_InP-example/s_aIn/five_number_summary_InP-example-s_aIn_configs-s_aIn_v0.csv",
+        "five_number_csv_atoms": "./examples/InP_JCPA2020/analysis_InP-example/s_aIn/five_number_summary_InP-example-s_aIn_atoms_v0.csv",
+        "all_atoms_csv": "./examples/InP_JCPA2020/analysis_InP-example/s_aIn/all-atoms_v0.csv"
+    },
+    "s_aP": {
+        "nconfigs": 72,
+        "natoms": 4608,
+        "elems": [
+            "In",
+            "P"
+        ],
+        "thresh_econfig": "econfig>100 ",
+        "thresh_eatom": "eatom>5 ",
+        "thresh_fx": "fx>8 ",
+        "thresh_fy": "fy>8 ",
+        "thresh_fz": "fz>8 ",
+        "thresh_fmag": "fmag>8 ",
+        "thresh_nn1_dist": "nn1_dist_outside_2.0-4.5A ",
+        "five_number_csv_configs": "./examples/InP_JCPA2020/analysis_InP-example/s_aP/five_number_summary_InP-example-s_aP_configs-s_aP_v0.csv",
+        "five_number_csv_atoms": "./examples/InP_JCPA2020/analysis_InP-example/s_aP/five_number_summary_InP-example-s_aP_atoms_v0.csv",
+        "all_atoms_csv": "./examples/InP_JCPA2020/analysis_InP-example/s_aP/all-atoms_v0.csv"
+    },
+    "Shear": {
+        "nconfigs": 346,
+        "natoms": 2768,
+        "elems": [
+            "In",
+            "P"
+        ],
+        "thresh_econfig": "econfig>100 ",
+        "thresh_eatom": "eatom>5 ",
+        "thresh_fx": "fx>8 ",
+        "thresh_fy": "fy>8 ",
+        "thresh_fz": "fz>8 ",
+        "thresh_fmag": "fmag>8 ",
+        "thresh_nn1_dist": "nn1_dist_outside_2.0-4.5A ",
+        "five_number_csv_configs": "./examples/InP_JCPA2020/analysis_InP-example/Shear/five_number_summary_InP-example-Shear_configs-Shear_v0.csv",
+        "five_number_csv_atoms": "./examples/InP_JCPA2020/analysis_InP-example/Shear/five_number_summary_InP-example-Shear_atoms_v0.csv",
+        "quarantine_csv": "./examples/InP_JCPA2020/analysis_InP-example/Shear/quarantine_summary_InP-example-Shear_v0.csv",
+        "all_atoms_csv": "./examples/InP_JCPA2020/analysis_InP-example/Shear/all-atoms_v0.csv"
+    },
+    "s_iIn": {
+        "nconfigs": 144,
+        "natoms": 9360,
+        "elems": [
+            "In",
+            "P"
+        ],
+        "thresh_econfig": "econfig>100 ",
+        "thresh_eatom": "eatom>5 ",
+        "thresh_fx": "fx>8 ",
+        "thresh_fy": "fy>8 ",
+        "thresh_fz": "fz>8 ",
+        "thresh_fmag": "fmag>8 ",
+        "thresh_nn1_dist": "nn1_dist_outside_2.0-4.5A ",
+        "five_number_csv_configs": "./examples/InP_JCPA2020/analysis_InP-example/s_iIn/five_number_summary_InP-example-s_iIn_configs-s_iIn_v0.csv",
+        "five_number_csv_atoms": "./examples/InP_JCPA2020/analysis_InP-example/s_iIn/five_number_summary_InP-example-s_iIn_atoms_v0.csv",
+        "all_atoms_csv": "./examples/InP_JCPA2020/analysis_InP-example/s_iIn/all-atoms_v0.csv"
+    },
+    "s_iP": {
+        "nconfigs": 337,
+        "natoms": 21905,
+        "elems": [
+            "In",
+            "P"
+        ],
+        "thresh_econfig": "econfig>100 ",
+        "thresh_eatom": "eatom>5 ",
+        "thresh_fx": "fx>8 ",
+        "thresh_fy": "fy>8 ",
+        "thresh_fz": "fz>8 ",
+        "thresh_fmag": "fmag>8 ",
+        "thresh_nn1_dist": "nn1_dist_outside_2.0-4.5A ",
+        "five_number_csv_configs": "./examples/InP_JCPA2020/analysis_InP-example/s_iP/five_number_summary_InP-example-s_iP_configs-s_iP_v0.csv",
+        "five_number_csv_atoms": "./examples/InP_JCPA2020/analysis_InP-example/s_iP/five_number_summary_InP-example-s_iP_atoms_v0.csv",
+        "quarantine_csv": "./examples/InP_JCPA2020/analysis_InP-example/s_iP/quarantine_summary_InP-example-s_iP_v0.csv",
+        "all_atoms_csv": "./examples/InP_JCPA2020/analysis_InP-example/s_iP/all-atoms_v0.csv"
+    },
+    "Strain": {
+        "nconfigs": 163,
+        "natoms": 1304,
+        "elems": [
+            "In",
+            "P"
+        ],
+        "thresh_econfig": "econfig>100 ",
+        "thresh_eatom": "eatom>5 ",
+        "thresh_fx": "fx>8 ",
+        "thresh_fy": "fy>8 ",
+        "thresh_fz": "fz>8 ",
+        "thresh_fmag": "fmag>8 ",
+        "thresh_nn1_dist": "nn1_dist_outside_2.0-4.5A ",
+        "five_number_csv_configs": "./examples/InP_JCPA2020/analysis_InP-example/Strain/five_number_summary_InP-example-Strain_configs-Strain_v0.csv",
+        "five_number_csv_atoms": "./examples/InP_JCPA2020/analysis_InP-example/Strain/five_number_summary_InP-example-Strain_atoms_v0.csv",
+        "all_atoms_csv": "./examples/InP_JCPA2020/analysis_InP-example/Strain/all-atoms_v0.csv"
+    },
+    "s_vIn": {
+        "nconfigs": 17,
+        "natoms": 1071,
+        "elems": [
+            "In",
+            "P"
+        ],
+        "thresh_econfig": "econfig>100 ",
+        "thresh_eatom": "eatom>5 ",
+        "thresh_fx": "fx>8 ",
+        "thresh_fy": "fy>8 ",
+        "thresh_fz": "fz>8 ",
+        "thresh_fmag": "fmag>8 ",
+        "thresh_nn1_dist": "nn1_dist_outside_2.0-4.5A ",
+        "five_number_csv_configs": "./examples/InP_JCPA2020/analysis_InP-example/s_vIn/five_number_summary_InP-example-s_vIn_configs-s_vIn_v0.csv",
+        "five_number_csv_atoms": "./examples/InP_JCPA2020/analysis_InP-example/s_vIn/five_number_summary_InP-example-s_vIn_atoms_v0.csv",
+        "all_atoms_csv": "./examples/InP_JCPA2020/analysis_InP-example/s_vIn/all-atoms_v0.csv"
+    },
+    "s_vP": {
+        "nconfigs": 77,
+        "natoms": 4851,
+        "elems": [
+            "In",
+            "P"
+        ],
+        "thresh_econfig": "econfig>100 ",
+        "thresh_eatom": "eatom>5 ",
+        "thresh_fx": "fx>8 ",
+        "thresh_fy": "fy>8 ",
+        "thresh_fz": "fz>8 ",
+        "thresh_fmag": "fmag>8 ",
+        "thresh_nn1_dist": "nn1_dist_outside_2.0-4.5A ",
+        "five_number_csv_configs": "./examples/InP_JCPA2020/analysis_InP-example/s_vP/five_number_summary_InP-example-s_vP_configs-s_vP_v0.csv",
+        "five_number_csv_atoms": "./examples/InP_JCPA2020/analysis_InP-example/s_vP/five_number_summary_InP-example-s_vP_atoms_v0.csv",
+        "all_atoms_csv": "./examples/InP_JCPA2020/analysis_InP-example/s_vP/all-atoms_v0.csv"
+    },
+    "s_vv": {
+        "nconfigs": 65,
+        "natoms": 4030,
+        "elems": [
+            "In",
+            "P"
+        ],
+        "thresh_econfig": "econfig>100 ",
+        "thresh_eatom": "eatom>5 ",
+        "thresh_fx": "fx>8 ",
+        "thresh_fy": "fy>8 ",
+        "thresh_fz": "fz>8 ",
+        "thresh_fmag": "fmag>8 ",
+        "thresh_nn1_dist": "nn1_dist_outside_2.0-4.5A ",
+        "five_number_csv_configs": "./examples/InP_JCPA2020/analysis_InP-example/s_vv/five_number_summary_InP-example-s_vv_configs-s_vv_v0.csv",
+        "five_number_csv_atoms": "./examples/InP_JCPA2020/analysis_InP-example/s_vv/five_number_summary_InP-example-s_vv_atoms_v0.csv",
+        "all_atoms_csv": "./examples/InP_JCPA2020/analysis_InP-example/s_vv/all-atoms_v0.csv"
+    },
+    "vP": {
+        "nconfigs": 10,
+        "natoms": 2150,
+        "elems": [
+            "In",
+            "P"
+        ],
+        "thresh_econfig": "econfig>100 ",
+        "thresh_eatom": "eatom>5 ",
+        "thresh_fx": "fx>8 ",
+        "thresh_fy": "fy>8 ",
+        "thresh_fz": "fz>8 ",
+        "thresh_fmag": "fmag>8 ",
+        "thresh_nn1_dist": "nn1_dist_outside_2.0-4.5A ",
+        "five_number_csv_configs": "./examples/InP_JCPA2020/analysis_InP-example/vP/five_number_summary_InP-example-vP_configs-vP_v0.csv",
+        "five_number_csv_atoms": "./examples/InP_JCPA2020/analysis_InP-example/vP/five_number_summary_InP-example-vP_atoms_v0.csv",
+        "all_atoms_csv": "./examples/InP_JCPA2020/analysis_InP-example/vP/all-atoms_v0.csv"
+    },
+    "vv": {
+        "nconfigs": 19,
+        "natoms": 4066,
+        "elems": [
+            "In",
+            "P"
+        ],
+        "thresh_econfig": "econfig>100 ",
+        "thresh_eatom": "eatom>5 ",
+        "thresh_fx": "fx>8 ",
+        "thresh_fy": "fy>8 ",
+        "thresh_fz": "fz>8 ",
+        "thresh_fmag": "fmag>8 ",
+        "thresh_nn1_dist": "nn1_dist_outside_2.0-4.5A ",
+        "five_number_csv_configs": "./examples/InP_JCPA2020/analysis_InP-example/vv/five_number_summary_InP-example-vv_configs-vv_v0.csv",
+        "five_number_csv_atoms": "./examples/InP_JCPA2020/analysis_InP-example/vv/five_number_summary_InP-example-vv_atoms_v0.csv",
+        "all_atoms_csv": "./examples/InP_JCPA2020/analysis_InP-example/vv/all-atoms_v0.csv"
+    }
+}

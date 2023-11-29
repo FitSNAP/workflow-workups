@@ -1,0 +1,309 @@
+FitSNAP instance hash: ebeae87187fd1dc8d382ac9567422846
+Using LAMMPSSNAP as FitSNAP calculator
+All groups, initial:
+  aa
+  aIn
+  aP
+  Bulk
+  EOS
+  iIn
+  iP
+  s_aa
+  s_aIn
+  s_aP
+  Shear
+  s_iIn
+  s_iP
+  Strain
+  s_vIn
+  s_vP
+  s_vv
+  vP
+  vv
+
+Metadata dict. keys:
+  input
+  datapath
+  group_data_not_found
+  aa
+  aIn
+  aP
+  Bulk
+  EOS
+  iIn
+  iP
+  s_aa
+  s_aIn
+  s_aP
+  Shear
+  s_iIn
+  s_iP
+  Strain
+  s_vIn
+  s_vP
+  s_vv
+  vP
+  vv
+
+Items in group_data_not_found: 
+
+
+============================
+Analysis: group 'aa'
+aa : Detected  20  fitting on  20  testing on  0
+'scrape_configs' took 57.50 ms on rank 0
+Creating group all_atoms dataframe
+Performing thresholding 
+Collecting five-number statistics
+Quarantining configs above thresholds
+Writing group CSV
+Generating plots for fmag, nn1_dist
+
+============================
+Analysis: group 'aIn'
+aIn : Detected  54  fitting on  54  testing on  0
+'scrape_configs' took 64.86 ms on rank 0
+Creating group all_atoms dataframe
+Performing thresholding 
+Collecting five-number statistics
+Quarantining configs above thresholds
+Writing group CSV
+Generating plots for fmag, nn1_dist
+
+============================
+Analysis: group 'aP'
+aP : Detected  21  fitting on  21  testing on  0
+'scrape_configs' took 25.15 ms on rank 0
+Creating group all_atoms dataframe
+Performing thresholding 
+Collecting five-number statistics
+Quarantining configs above thresholds
+Writing group CSV
+Generating plots for fmag, nn1_dist
+
+============================
+Analysis: group 'Bulk'
+Bulk : Detected  1  fitting on  1  testing on  0
+'scrape_configs' took 1.25 ms on rank 0
+Creating group all_atoms dataframe
+Performing thresholding 
+Collecting five-number statistics
+Quarantining configs above thresholds
+Writing group CSV
+Generating plots for fmag, nn1_dist
+
+============================
+Analysis: group 'EOS'
+EOS : Detected  268  fitting on  268  testing on  0
+'scrape_configs' took 186.65 ms on rank 0
+Creating group all_atoms dataframe
+Performing thresholding 
+Collecting five-number statistics
+Quarantining configs above thresholds
+Writing group CSV
+Generating plots for fmag, nn1_dist
+
+============================
+Analysis: group 'iIn'
+iIn : Detected  41  fitting on  41  testing on  0
+'scrape_configs' took 48.21 ms on rank 0
+Creating group all_atoms dataframe
+Performing thresholding 
+Collecting five-number statistics
+Quarantining configs above thresholds
+Writing group CSV
+Generating plots for fmag, nn1_dist
+
+============================
+Analysis: group 'iP'
+iP : Detected  100  fitting on  100  testing on  0
+'scrape_configs' took 115.43 ms on rank 0
+Creating group all_atoms dataframe
+Performing thresholding 
+Collecting five-number statistics
+Quarantining configs above thresholds
+Writing group CSV
+Generating plots for fmag, nn1_dist
+
+============================
+Analysis: group 's_aa'
+s_aa : Detected  18  fitting on  18  testing on  0
+'scrape_configs' took 16.67 ms on rank 0
+Creating group all_atoms dataframe
+Performing thresholding 
+Collecting five-number statistics
+Quarantining configs above thresholds
+Writing group CSV
+Generating plots for fmag, nn1_dist
+
+============================
+Analysis: group 's_aIn'
+s_aIn : Detected  121  fitting on  121  testing on  0
+'scrape_configs' took 106.54 ms on rank 0
+Creating group all_atoms dataframe
+Performing thresholding 
+Collecting five-number statistics
+Quarantining configs above thresholds
+Writing group CSV
+Generating plots for fmag, nn1_dist
+
+============================
+Analysis: group 's_aP'
+s_aP : Detected  72  fitting on  72  testing on  0
+'scrape_configs' took 63.92 ms on rank 0
+Creating group all_atoms dataframe
+Performing thresholding 
+Collecting five-number statistics
+Quarantining configs above thresholds
+Writing group CSV
+Generating plots for fmag, nn1_dist
+
+============================
+Analysis: group 'Shear'
+Shear : Detected  346  fitting on  346  testing on  0
+'scrape_configs' took 244.99 ms on rank 0
+Creating group all_atoms dataframe
+Performing thresholding 
+Collecting five-number statistics
+Quarantining configs above thresholds
+Writing group CSV
+Generating plots for fmag, nn1_dist
+
+============================
+Analysis: group 's_iIn'
+s_iIn : Detected  144  fitting on  144  testing on  0
+'scrape_configs' took 128.30 ms on rank 0
+Creating group all_atoms dataframe
+Performing thresholding 
+Collecting five-number statistics
+Quarantining configs above thresholds
+Writing group CSV
+Generating plots for fmag, nn1_dist
+
+============================
+Analysis: group 's_iP'
+s_iP : Detected  337  fitting on  337  testing on  0
+'scrape_configs' took 295.42 ms on rank 0
+Creating group all_atoms dataframe
+Performing thresholding 
+Collecting five-number statistics
+Quarantining configs above thresholds
+Writing group CSV
+Generating plots for fmag, nn1_dist
+
+============================
+Analysis: group 'Strain'
+Strain : Detected  163  fitting on  163  testing on  0
+'scrape_configs' took 113.26 ms on rank 0
+Creating group all_atoms dataframe
+Performing thresholding 
+Collecting five-number statistics
+Quarantining configs above thresholds
+Writing group CSV
+Generating plots for fmag, nn1_dist
+
+============================
+Analysis: group 's_vIn'
+s_vIn : Detected  17  fitting on  17  testing on  0
+'scrape_configs' took 16.88 ms on rank 0
+Creating group all_atoms dataframe
+Performing thresholding 
+Collecting five-number statistics
+Quarantining configs above thresholds
+Writing group CSV
+Generating plots for fmag, nn1_dist
+
+============================
+Analysis: group 's_vP'
+s_vP : Detected  77  fitting on  77  testing on  0
+'scrape_configs' took 71.83 ms on rank 0
+Creating group all_atoms dataframe
+Performing thresholding 
+Collecting five-number statistics
+Quarantining configs above thresholds
+Writing group CSV
+Generating plots for fmag, nn1_dist
+
+============================
+Analysis: group 's_vv'
+s_vv : Detected  65  fitting on  65  testing on  0
+'scrape_configs' took 56.52 ms on rank 0
+Creating group all_atoms dataframe
+Performing thresholding 
+Collecting five-number statistics
+Quarantining configs above thresholds
+Writing group CSV
+Generating plots for fmag, nn1_dist
+
+============================
+Analysis: group 'vP'
+vP : Detected  10  fitting on  10  testing on  0
+'scrape_configs' took 12.10 ms on rank 0
+Creating group all_atoms dataframe
+Performing thresholding 
+Collecting five-number statistics
+Quarantining configs above thresholds
+Writing group CSV
+Generating plots for fmag, nn1_dist
+
+============================
+Analysis: group 'vv'
+vv : Detected  19  fitting on  19  testing on  0
+'scrape_configs' took 23.57 ms on rank 0
+Creating group all_atoms dataframe
+Performing thresholding 
+Collecting five-number statistics
+Quarantining configs above thresholds
+Writing group CSV
+Generating plots for fmag, nn1_dist
+
+============================
+Completed group analysis!
+Generating final summary data
+=======================================
+Training set analysis complete!
+=======================================
+Settings file or dictionary: ./examples/InP_JCPA2020/InP-example.in
+User label: InP-example
+Output path: /home/megmcca/projects/fitsnap/pre-fit_fitsnap_tools/training_set_analyzer/./examples/InP_JCPA2020/analysis_InP-example
+Training set: /home/megmcca/projects/fitsnap/pre-fit_fitsnap_tools/training_set_analyzer/./examples/InP_JCPA2020/JSON
+Groups analyzed (with settings): 
+  aa = 1.0  0.0	5319411.52359161	12160.2964901219 	1.0e-12
+  aIn = 1.0  0.0 	592960.979019644    	410.375340021632  	1.0e-12
+  aP = 1.0  0.0 	280933.371566026    	3618.73557864646  	1.0e-12
+  Bulk = 1.0  0.0 	747239.126417448   	1609572.6749909  	1.0e-12
+  EOS = 1.0  0.0 	100000    		11164.9854012147    	1.0e-12
+  iIn = 1.0  0.0 	2103779.971446    	6796.55772361871  	1.0e-12
+  iP = 1.0  0.0 	669131.752996794  	5805.68960393981  	1.0e-12
+  s_aa = 1.0  0.0	5319411.52359161  	12160.2964901219 	1.0e-12
+  s_aIn = 1.0  0.0	592960.979019644   	410.375340021632 	1.0e-12
+  s_aP = 1.0  0.0	280933.371566026    	3618.73557864646	1.0e-12
+  Shear = 1.0  0.0 	100000  		205.973221998272	1.0e-12
+  s_iIn = 1.0  0.0	2103779.971446   	6796.55772361871 	1.0e-12
+  s_iP = 1.0  0.0	669131.752996794    	5805.68960393981 	1.0e-12
+  Strain = 1.0  0.0 	4564655.81612184 	1525.7275564439	 	1.0e-12
+  s_vIn = 1.0  0.0	6314405.9173199   	712362.940478615 	1.0e-12
+  s_vP = 1.0  0.0	3891634.88035388    	64705.3594884766 	1.0e-12
+  s_vv = 1.0  0.0	5622278.70967226    	24308.6192988325 	1.0e-12
+  vP = 1.0  0.0 	3891634.88035388     	64705.3594884766  	1.0e-12
+  vv = 1.0  0.0 	5622278.70967226     	24308.6192988325  	1.0e-12
+
+Total analyzed configurations: 1894
+Total atoms: 118214
+Number of quarantined configurations: 4
+Threshold information:
+-------------------------------------------
+name            value           operator        
+-------------------------------------------
+econfig         100             >               
+eatom           5               >               
+fx              8               >               
+fy              8               >               
+fz              8               >               
+fmag            8               >               
+nn1_dist        [2.0, 4.5]      outside         
+
+
+Writing brief report above to file: ./examples/InP_JCPA2020/analysis_InP-example/brief_report.txt
+Script complete!
+

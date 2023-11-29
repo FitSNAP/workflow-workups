@@ -1,0 +1,43 @@
+=======================================
+Training set analysis complete!
+=======================================
+Settings file or dictionary: ./examples/InP_JCPA2020/InP-example.in
+User label: InP-example
+Output path: /home/megmcca/projects/fitsnap/pre-fit_fitsnap_tools/training_set_analyzer/./examples/InP_JCPA2020/analysis_InP-example
+Training set: /home/megmcca/projects/fitsnap/pre-fit_fitsnap_tools/training_set_analyzer/./examples/InP_JCPA2020/JSON
+Groups analyzed (with settings): 
+  aa = 1.0  0.0	5319411.52359161	12160.2964901219 	1.0e-12
+  aIn = 1.0  0.0 	592960.979019644    	410.375340021632  	1.0e-12
+  aP = 1.0  0.0 	280933.371566026    	3618.73557864646  	1.0e-12
+  Bulk = 1.0  0.0 	747239.126417448   	1609572.6749909  	1.0e-12
+  EOS = 1.0  0.0 	100000    		11164.9854012147    	1.0e-12
+  iIn = 1.0  0.0 	2103779.971446    	6796.55772361871  	1.0e-12
+  iP = 1.0  0.0 	669131.752996794  	5805.68960393981  	1.0e-12
+  s_aa = 1.0  0.0	5319411.52359161  	12160.2964901219 	1.0e-12
+  s_aIn = 1.0  0.0	592960.979019644   	410.375340021632 	1.0e-12
+  s_aP = 1.0  0.0	280933.371566026    	3618.73557864646	1.0e-12
+  Shear = 1.0  0.0 	100000  		205.973221998272	1.0e-12
+  s_iIn = 1.0  0.0	2103779.971446   	6796.55772361871 	1.0e-12
+  s_iP = 1.0  0.0	669131.752996794    	5805.68960393981 	1.0e-12
+  Strain = 1.0  0.0 	4564655.81612184 	1525.7275564439	 	1.0e-12
+  s_vIn = 1.0  0.0	6314405.9173199   	712362.940478615 	1.0e-12
+  s_vP = 1.0  0.0	3891634.88035388    	64705.3594884766 	1.0e-12
+  s_vv = 1.0  0.0	5622278.70967226    	24308.6192988325 	1.0e-12
+  vP = 1.0  0.0 	3891634.88035388     	64705.3594884766  	1.0e-12
+  vv = 1.0  0.0 	5622278.70967226     	24308.6192988325  	1.0e-12
+
+Total analyzed configurations: 1894
+Total atoms: 118214
+Number of quarantined configurations: 4
+Threshold information:
+-------------------------------------------
+name            value           operator        
+-------------------------------------------
+econfig         100             >               
+eatom           5               >               
+fx              8               >               
+fy              8               >               
+fz              8               >               
+fmag            8               >               
+nn1_dist        [2.0, 4.5]      outside         
+
